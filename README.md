@@ -1,4 +1,4 @@
-# Deep Learning Challenge: Alphabet Soup Neural Network
+# Deep Learning: Alphabet Soup Neural Network
 
 ## Summary
 This project focuses on building a binary classification model to assist the non-profit organization **Alphabet Soup** in identifying the best candidates for funding. The model predicts the success likelihood of applicants based on historical data.
